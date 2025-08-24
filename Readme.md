@@ -229,7 +229,7 @@ Output:
 3.All intermediate visited states (to illustrate algorithm traversal).
 
 
-📂 Code by: Komalpreet kaur
+📂 Code by: Dolly Singla
 
 📅 Date: 06-08-2025
 
